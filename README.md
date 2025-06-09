@@ -70,7 +70,7 @@ python scripts/run_migrations/run_tenant_migrations.py --list
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/flask-postgresql-multi-tenant.git
+git clone https://github.com/Avaneesh13/Multi-Tenant-Boilerplate.git
 cd flask-postgresql-multi-tenant
 ```
 
@@ -328,7 +328,7 @@ If this boilerplate helped you, please consider:
 
 - **[Contributing Guide](CONTRIBUTING.md)** - How to contribute
 - **[Issue Templates](.github/ISSUE_TEMPLATE/)** - Report bugs or request features
-- **[Discussions](https://github.com/your-username/flask-postgresql-multi-tenant/discussions)** - Community support
+- **[Discussions](https://github.com/Avaneesh13/Multi-Tenant-Boilerplate/discussions)** - Community support
 
 ## 🔧 Advanced Features
 

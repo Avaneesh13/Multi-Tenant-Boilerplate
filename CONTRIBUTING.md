@@ -32,7 +32,7 @@ Thank you for your interest in contributing to this project! This boilerplate ai
 1. **Fork the repository**
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/your-username/flask-postgresql-multi-tenant.git
+   git clone https://github.com/Avaneesh13/Multi-Tenant-Boilerplate.git
    cd flask-postgresql-multi-tenant
    ```
 3. **Create a virtual environment**:
